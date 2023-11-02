@@ -1,7 +1,7 @@
 // Le, James
 // lejames11367@csu.fullerton.edu
 // @lejames11367
-// Partners: 
+// Partners: @Flimmmzy, @dylanslong
 
 #include <iostream>
 #include <string>
